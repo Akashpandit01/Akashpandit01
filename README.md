@@ -1,20 +1,14 @@
-<!-- ╔══════════════════════════════════════════════╗ -->
-<!--            🌟 AKASH PANDIT — PREMIUM GITHUB PROFILE           -->
-<!-- ╚══════════════════════════════════════════════╝ -->
-
-<!-- ✨ Animated Header Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Akash+Pandit;Full+Stack+Developer;Java+Backend+%7C+MERN+Stack;Spring+Boot+%7C+MySQL+%7C+MongoDB;Clean+Code+Enthusiast;Welcome+to+My+GitHub!">
 </p>
 
-<!-- 💠 Futuristic Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:0077FF&height=120&text=Akash%20Pandit&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
 
-# 🧬 **Who Am I? — Premium About Me Section**
+# 🧬 **Who Am I?**
 
 I am **Akash Pandit**, a passionate **Full Stack Developer** who builds  
 **scalable, clean & real-world applications** using:
@@ -22,16 +16,16 @@ I am **Akash Pandit**, a passionate **Full Stack Developer** who builds
 🔥 **Java + Spring Boot + MySQL**  
 🔥 **MERN Stack (MongoDB, Express, React, Node.js)**  
 
-💡 I love solving problems, creating fluid UI/UX, and optimizing backend systems.  
-🎯 Currently learning: Spring Security · Microservices · Cloud Deployment  
-🚀 Open to work & collaborations  
+💡 I love solving problems and crafting smooth UI/UX.  
+🎯 Learning now: Spring Security · Microservices · Cloud Deployment  
+🚀 Open to work and collaboration  
 
 🌐 **Portfolio:**  
 👉 https://akash-pandit-portfulio.vercel.app
 
 ---
 
-# ⚙️ **Premium Tech Stack (Animated Carousel + Icons)**
+# ⚙️ **Premium Tech Stack**
 
 ### 🚀 Tech Carousel  
 <p align="center">
@@ -45,39 +39,35 @@ I am **Akash Pandit**, a passionate **Full Stack Developer** who builds
 
 ---
 
-# 🏆 **Featured Projects — Premium Cards**
+# 🏆 **Featured Projects**
 
 ## 🔹 **DailyPulse – Habit Tracking App**
-📌 *Analytics + Cloud Sync + Beautiful UI*  
 **Tech:** React, TypeScript, Firebase, Tailwind  
-🔗 **GitHub:** https://github.com/mrpawarGit/DailyPulse-Frontend  
-🔗 **Live Demo:** https://daily-pulse-app.vercel.app/
+🔗 GitHub: https://github.com/mrpawarGit/DailyPulse-Frontend  
+🔗 Live Demo: https://daily-pulse-app.vercel.app/
 
 ---
 
 ## 🔹 **VolunteerHub – Volunteer Management Platform**
-📌 *Connecting Volunteers with NGOs + Admin Dashboard*  
 **Tech:** HTML, CSS, JS, Bootstrap, Firebase  
-🔗 **GitHub:** https://github.com/Akashpandit01/Voluntier-Hub  
-🔗 **Live Demo:** https://prismatic-gumption-0874a1.netlify.app/
+🔗 GitHub: https://github.com/Akashpandit01/Voluntier-Hub  
+🔗 Live Demo: https://prismatic-gumption-0874a1.netlify.app/
 
 ---
 
 ## 🔹 **Hospital Management System**
-📌 *Appointments · Billing · Patient Records*  
 **Tech:** Java, JSP, Servlets, JDBC, MySQL  
-🔗 **GitHub:** https://github.com/Akashpandit01/Hospital-Management-System
+🔗 GitHub: https://github.com/Akashpandit01/Hospital-Management-System
 
 ---
 
 ## 🔹 **Academic Certificate Verification System**
-📌 *Certificate Validation + Admin Panel*  
 **Tech:** JSP, Servlets, MySQL  
-🔗 **GitHub:** https://github.com/Akashpandit01/Certificate-Verification-System
+🔗 GitHub: https://github.com/Akashpandit01/Certificate-Verification-System
 
 ---
 
-# 📊 **GitHub Analytics Dashboard (Premium Look)**
+# 📊 **GitHub Analytics**
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akashpandit01&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -90,19 +80,15 @@ I am **Akash Pandit**, a passionate **Full Stack Developer** who builds
 
 ---
 
-# 🐍 **Animated Contribution Snake (Custom Color)**  
+# 🐍 **Contribution Snake**
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/akashpandit01/akashpandit01/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 🔥 **ASCII Developer Signature (Unique to You)**
-
-
----
-
-# 📫 **Connect With Me (Premium Buttons)**
+# 📫 **Connect With Me**
 
 <p align="center">
 
@@ -122,7 +108,7 @@ I am **Akash Pandit**, a passionate **Full Stack Developer** who builds
 
 ---
 
-# 📄 **Resume (Download Button)**
+# 📄 **Resume**
 
 <p align="center">
   <a href="YOUR_RESUME_LINK" target="_blank">
@@ -132,5 +118,4 @@ I am **Akash Pandit**, a passionate **Full Stack Developer** who builds
 
 ---
 
-<!-- 🌈 PREMIUM FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
