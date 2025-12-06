@@ -29,7 +29,7 @@ I am **Akash Pandit**, a passionate **Full Stack Developer** who builds
 
 ### 🚀 Tech Carousel  
 <p align="center">
-  <img src="https://readme-components.vercel.app/api?component=marquee&text=Java%20%7C%20Spring%20Boot%20%7C%20MySQL%20%7C%20JDBC%20%7C%20React%20%7C%20Node%20%7C%20Express%20%7C%20MongoDB%20%7C%20Firebase%20%7C%20HTML%20%7C%20CSS%20%7C%20Bootstrap%20%7C%20Git%20%7C%20Postman" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+MySQL+%7C+JDBC+%7C+React+%7C+Node.js+%7C+Express+%7C+MongoDB+%7C+Firebase+%7C+Git" />
 </p>
 
 ### 🧩 Stack Icons  
