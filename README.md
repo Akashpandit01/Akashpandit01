@@ -8,7 +8,6 @@
 
 ---
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
-# 🧬 **Who Am I?**
 
 I am **Akash Pandit**, a passionate **Full Stack Developer** who builds  
 **scalable, clean & real-world applications** using:
@@ -25,17 +24,29 @@ I am **Akash Pandit**, a passionate **Full Stack Developer** who builds
 
 ---
 
-# ⚙️ **Premium Tech Stack**
+## 🚀 Languages and Tools
 
-### 🚀 Tech Carousel  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+MySQL+%7C+JDBC+%7C+React+%7C+Node.js+%7C+Express+%7C+MongoDB+%7C+Firebase+%7C+Git" />
-</p>
+<div align="center">
 
-### 🧩 Stack Icons  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,nodejs,express,mongodb,react,js,ts,html,css,bootstrap,git,github,firebase,postman,vscode" height="80"/>
-</p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+
+</div>
 
 ---
 
@@ -111,7 +122,7 @@ I am **Akash Pandit**, a passionate **Full Stack Developer** who builds
 # 📄 **Resume**
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK" target="_blank">
+  <a href="https://drive.google.com/file/d/1HyC2XzGPaTYTHjyrCdCiL03tDp3EVW65/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download-Resume-00eaff?style=for-the-badge&logo=google-drive&logoColor=black" />
   </a>
 </p>
