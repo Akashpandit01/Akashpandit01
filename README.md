@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
 # 🧬 **Who Am I?**
 
 I am **Akash Pandit**, a passionate **Full Stack Developer** who builds  
