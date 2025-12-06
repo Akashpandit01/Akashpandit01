@@ -9,14 +9,14 @@
 ---
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
 
-I am **Akash Pandit**, a passionate **Full Stack Developer** who builds  
+Hi ,I am **Akash Pandit**, a passionate **Full Stack Developer** who builds  
 **scalable, clean & real-world applications** using:
 
 🔥 **Java + Spring Boot + MySQL**  
 🔥 **MERN Stack (MongoDB, Express, React, Node.js)**  
 
 💡 I love solving problems and crafting smooth UI/UX.  
-🎯 Learning now: Spring Security · Microservices · Cloud Deployment  
+🎯Learning **React JS | Node JS | Express | Mongoose | API Integration** <br>
 🚀 Open to work and collaboration  
 
 🌐 **Portfolio:**  
