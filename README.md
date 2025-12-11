@@ -20,7 +20,7 @@
 <td width="60%" valign="top">
 
 ## Hi, I'm **Akash Pandit** 👋  
-I'm a passionate **Full Stack Developer** who builds **scalable, clean & real-world applications** using:
+I'm a passionate **Full Stack Developer** who builds **scalable, clean & real-world applications**
 
 - 🌱 Learning **React JS | Spring Boot | Spring JDBC | MS SQL | API Integration**
 - 👯 Open to collaborate on **React + Spring Boot / Express Projects**
