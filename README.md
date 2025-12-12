@@ -80,7 +80,8 @@ alt="Coding GIF"
 # 🏆 Featured Projects
 
 ## 🔹 **DailyPulse – Habit Tracking App**
-**Tech:** React, TypeScript, Firebase, Tailwind  
+**Tech:** React, TypeScript, Firebase, Tailwind 
+<p>A modern, responsive habit tracking application built with React, TypeScript, and Tailwind CSS. Track your daily habits, log your mood, visualise your progress, and build lasting streaks.</p>
 🔗 GitHub: https://github.com/mrpawarGit/DailyPulse-Frontend  
 🔗 Live Demo: https://daily-pulse-app.vercel.app/
 
@@ -88,6 +89,7 @@ alt="Coding GIF"
 
 ## 🔹 **VolunteerHub – Volunteer Platform**
 **Tech:** HTML, CSS, JS, Bootstrap, Firebase  
+<p>A comprehensive web-based platform that connects volunteers with meaningful opportunities while providing administrators with powerful tools to manage volunteer applications and activities.</p>
 🔗 GitHub: https://github.com/Akashpandit01/Voluntier-Hub  
 🔗 Live Demo: https://prismatic-gumption-0874a1.netlify.app/
 
@@ -95,13 +97,8 @@ alt="Coding GIF"
 
 ## 🔹 **Hospital Management System**
 **Tech:** Java, JSP, Servlets, JDBC, MySQL  
+<p>Developed a Student Information Management System that enables seamless management of student records with complete CRUD (Create, Read, Update, Delete) functionality. The system ensures efficient data handling, improved accessibility, and a streamlined workflow for administrators.</p>
 🔗 GitHub: https://github.com/Akashpandit01/Hospital-Management-System
-
----
-
-## 🔹 **Academic Certificate Verification System**
-**Tech:** JSP, Servlets, MySQL  
-🔗 GitHub: https://github.com/Akashpandit01/Certificate-Verification-System
 
 ---
 
