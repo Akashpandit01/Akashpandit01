@@ -22,7 +22,7 @@
 ## Hi, I'm **Akash Pandit** 👋  
 I'm a passionate **Full Stack Developer** who builds **scalable, clean & real-world applications**
 
-- 🌱 Learning **React JS | Spring Boot | Spring JDBC | MS SQL | API Integration**
+- 🌱 Learning **React JS | Node JS | Express | Mongoose | API Integration**
 - 👯 Open to collaborate on **React + Spring Boot / Express Projects**
 - 💬 Ask me about **Java, Spring Boot, JDBC, REST APIs, MySQL**
 - 💻 Explore my [**Portfolio Website**]( https://akash-pandit-portfulio.vercel.app) to see my work and projects in action.
